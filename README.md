@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi all 🌊👋
+<p align="center">
+<img src="https://user-images.githubusercontent.com/2392217/87830844-3f359000-c882-11ea-886a-bafa808c0681.gif" />
+</p>
+
+#### Recharging ![Rolling-1 7s-18px](https://user-images.githubusercontent.com/2392217/87831479-e8c95100-c883-11ea-99e5-4b61916aef21.gif)
 
 <!--
 **DennisGaida/DennisGaida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
